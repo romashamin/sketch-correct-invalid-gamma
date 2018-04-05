@@ -1,7 +1,7 @@
 {
   "compatibleVersion": 3,
   "bundleVersion": 1,
-  "identifier": "com.github.romashamin.half-me-sketch",
+  "identifier": "com.github.romashamin.sketch-correct-invalid-gamma",
   "appcast": "https://raw.githubusercontent.com/romashamin/sketch-correct-invalid-gamma/master/appcast.xml",
   "icon": "icon.png",
   "commands": [
