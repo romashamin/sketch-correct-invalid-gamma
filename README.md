@@ -5,5 +5,5 @@ The plugin works almost the same way as [official GammaCorrection plugin](https:
 
 ### Install
 
-1. Download and unzip: [sketch-correct-invalid-gamma.zip](https://github.com/romashamin/sketch-correct-invalid-gamma/archive/master.zip).
+1. Download and unzip: [Correct.Invalid.Gamma.sketchplugin.zip](https://github.com/romashamin/sketch-correct-invalid-gamma/releases/download/v1.1/Correct.Invalid.Gamma.sketchplugin.zip).
 2. Double click `.sketchplugin` file.

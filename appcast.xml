@@ -25,7 +25,7 @@
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/romashamin/sketch-correct-invalid-gamma/archive/master.zip" sparkle:version="1.1" />
+        <enclosure url="https://github.com/romashamin/sketch-correct-invalid-gamma/releases/download/v1.1/Correct.Invalid.Gamma.sketchplugin.zip" sparkle:version="1.1" />
       </item>
   </channel>
 </rss>
