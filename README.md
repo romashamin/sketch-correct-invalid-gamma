@@ -1,4 +1,4 @@
-<img width="80" height="80" src="assets/icon.png" title="Correct Invalid Gamma Icon">
+<img width="160" height="160" src="assets/icon.png" title="Correct Invalid Gamma Icon">
 
 # Correct Invalid Gamma
 for selected bitmaps
