@@ -1,0 +1,26 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "identifier": "com.github.romashamin.half-me-sketch",
+  "appcast": "https://raw.githubusercontent.com/romashamin/sketch-correct-invalid-gamma/master/appcast.xml",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Correct Selected Bitmaps",
+      "identifier": "my-command-identifier",
+      "shortcut": "cmd alt ctrl g",
+      "script": "my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "Gamma Correction for Selected",
+    "items": [
+      "my-command-identifier"
+    ]
+  },
+  "version": "0.1.0",
+  "name": "sketch-correct-invalid-gamma",
+  "disableCocoaScriptPreprocessor": true,
+  "author": "Roman Shamin",
+  "authorEmail": "al4emist.artway@gmail.com"
+}
