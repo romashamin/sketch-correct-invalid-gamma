@@ -1,4 +1,8 @@
 {
+  "name": "Correct Invalid Gamma",
+  "description": "Correct invalid gamma for selected bitmaps",
+  "author": "Roman Shamin",
+  "homepage": "https://github.com/romashamin/sketch-correct-invalid-gamma",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "identifier": "com.github.romashamin.sketch-correct-invalid-gamma",
