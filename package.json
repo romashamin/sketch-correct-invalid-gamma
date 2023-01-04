@@ -19,7 +19,7 @@
     "postinstall": "npm run build && skpm-link"
   },
   "devDependencies": {
-    "@skpm/builder": "^0.4.0"
+    "@skpm/builder": "^0.8.0"
   },
   "author": "Roman Shamin <al4emist.artway@gmail.com>"
 }
